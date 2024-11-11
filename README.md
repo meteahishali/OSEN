@@ -43,9 +43,12 @@ If you use method(s) provided in this repository, please cite the following pape
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Operational Support Estimator Networks}, 
   year={2024},
-  pages={1-17},
-  doi={10.1109/TPAMI.2024.3406473}
-}
+  volume={46},
+  number={12},
+  pages={8442-8458},
+  keywords={Task analysis;Estimation;Kernel;Neurons;Training;Dictionaries;Sparse approximation;Support estimation;sparse representation;operational layers;compressive sensing;machine learning},
+  doi={10.1109/TPAMI.2024.3406473}}
+
 ```
 
 ## Application I: Support Estimation from CS Measurements
