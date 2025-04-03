@@ -2,6 +2,8 @@
 
 This repository includes the implentation of the methods in [Operational Support Estimator Networks](https://ieeexplore.ieee.org/abstract/document/10542410). OSENs are generic networks and they can be used in different support estimation problems. There are three applications that we consider in this repository: i. Support Estimation from CS Measurements, ii. Representation-based Classification, and iii. Learning aided CS for MRI Reconstruction.
 
+M. Ahishali, M. Yamac, S. Kiranyaz and M. Gabbouj, "Operational Support Estimator Networks," in _IEEE Transactions on Pattern Analysis and Machine Intelligence_, vol. 46, no. 12, pp. 8442-8458, Dec. 2024, doi: 10.1109/TPAMI.2024.3406473.
+
 ![Example Results](/images/osen_mnist.png)
 
 Software environment:
